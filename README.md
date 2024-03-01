@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @A-Gareeb-Coder
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rashmisri93@outlook.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I want to become a Pro Coder and the irony is I don't even know C of Coding
